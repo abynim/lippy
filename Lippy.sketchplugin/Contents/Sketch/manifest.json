@@ -28,6 +28,6 @@
   "authorName" : "Aby Nimbalkar",
   "name" : "Lippy",
   "disableCocoaScriptPreprocessor" : true,
-  "homepage" : "https://github.com/",
-  "appcast" : "https://raw.githubusercontent.com/abynim/lippy/master/appcast.xml"
+  "homepage" : "https://abynim.github.io/lippy",
+  "appcast" : "https://abynim.github.io/lippy/appcast.xml"
 }
