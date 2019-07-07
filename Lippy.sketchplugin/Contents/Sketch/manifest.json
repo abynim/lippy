@@ -1,0 +1,33 @@
+{
+  "commands" : [
+      {
+          "script" : "script.js",
+          "handler" : "go",
+          "shortcut" : "cmd l",
+          "name" : "Lippy",
+          "identifier" : "lippy",
+          "description": "An interactive lorem ipsum generator."
+      },
+      {
+          "script" : "script.js",
+          "handler" : "updateSource",
+          "identifier" : "updateSource"
+      }
+  ],
+  "menu": {
+      "title" : "Lippy",
+      "isRoot" : true,
+      "items": [
+          "lippy"
+      ]
+  },
+  "identifier" : "com.abynim.Lippy",
+  "version" : "1.0",
+  "icon" : "icon.png",
+  "description" : "An interactive lorem ipsum generator",
+  "authorName" : "Aby Nimbalkar",
+  "name" : "Lippy",
+  "disableCocoaScriptPreprocessor" : true,
+  "homepage" : "https://github.com/",
+  "appcast" : "https://raw.githubusercontent.com/abynim/lippy/master/appcast.xml"
+}
