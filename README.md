@@ -4,7 +4,7 @@ An interactive lorem ipsum generator plugin for Sketch.
 ![Preview Image](https://github.com/abynim/lippy/blob/master/lippy-gh.gif?raw=true)
 
 ## Installing
-Download the contents of this repository, then double-click the `.sketchplugin` bundle. 
+Download the contents of this repository, then double-click the `Lippy.sketchplugin` bundle.  
 Or install via [Sketch Runner](https://sketchrunner.com/).
 
 ## How to use
