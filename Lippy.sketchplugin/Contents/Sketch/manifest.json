@@ -22,12 +22,12 @@
       ]
   },
   "identifier" : "com.abynim.Lippy",
-  "version" : "1.0",
+  "version" : "1.1",
   "icon" : "icon.png",
   "description" : "An interactive lorem ipsum generator",
   "authorName" : "Aby Nimbalkar",
   "name" : "Lippy",
   "disableCocoaScriptPreprocessor" : true,
-  "homepage" : "https://abynim.github.io/lippy",
-  "appcast" : "https://abynim.github.io/lippy/appcast.xml"
+  "homepage" : "https://github.com/abynim/lippy",
+  "appcast" : "https://raw.githubusercontent.com/abynim/lippy/master/appcast.xml"
 }
