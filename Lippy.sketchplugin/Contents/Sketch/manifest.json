@@ -3,7 +3,7 @@
       {
           "script" : "script.js",
           "handler" : "go",
-          "shortcut" : "cmd l",
+          "shortcut" : "ctrl i",
           "name" : "Lippy",
           "identifier" : "lippy",
           "description": "An interactive lorem ipsum generator."
@@ -22,12 +22,12 @@
       ]
   },
   "identifier" : "com.abynim.Lippy",
-  "version" : "1.1.2",
+  "version" : "1.2",
   "icon" : "icon.png",
   "description" : "An interactive lorem ipsum generator",
   "author" : "Aby Nimbalkar",
   "name" : "Lippy",
   "disableCocoaScriptPreprocessor" : true,
-  "homepage" : "https://github.com/abynim/lippy",
+  "homepage" : "https://abynim.github.io/lippy",
   "appcast" : "https://abynim.github.io/lippy/appcast.xml"
 }

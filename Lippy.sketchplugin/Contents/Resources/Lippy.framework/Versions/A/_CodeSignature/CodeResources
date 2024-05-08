@@ -6,19 +6,19 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		DsOXBaO6g7r6yk38nr341U5JKbs=
+		0MbGqN0gImesys7Q7s0g76KHHZY=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		CGC7QGvyIUCDVnT1+swgpW+y4NM=
+		Jhpk5XMyRGfI9SktaLSpQrtPW/o=
 		</data>
 		<key>Resources/LippyMainViewController.nib</key>
 		<data>
-		CzxE3UApU8jgY1TKI8SD4BBna1I=
+		G8+3jeSDMLpiTKx+W4L0SKScBDs=
 		</data>
 		<key>Resources/LippySourceEditorWindow.nib</key>
 		<data>
-		Xnr23zDkWDRWE8baVATqJbLOKaE=
+		VxGdDXTSvu8G+M0S0mg2dzdf8dY=
 		</data>
 		<key>Resources/lippy-content.json</key>
 		<data>
@@ -31,28 +31,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jA7m8DVikyWzvd+r7RQ8sI8sQOliRXns2MIzjB8Sleo=
+			I1os1YmNcOymLKipfOy2iKKnpPVqY9loVa+eTCBvnkk=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pqNydbc0QkFOnaTnhhUnaCQe0/nbYk0fsCZbahF30lw=
+			cIAxf3362OQFNkLeOjMu9OLzSZDx+DwqeUV7SQhFbXo=
 			</data>
 		</dict>
 		<key>Resources/LippyMainViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EjlcLFLzeMoiXBRQ/pXfc/EfBKJ77qfi1GCEehDiieA=
+			zrQSpx/eowsdEymJZLVZDSY+E3zmjWVk9BZ/WcpHmN0=
 			</data>
 		</dict>
 		<key>Resources/LippySourceEditorWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w60MRdt0FDMI84Dd5o7Rg4Azl8I4+rSxutlrYMcrk98=
+			UFT2QMgpKm+qjykLZhW8tsS90lJdpmcz+LPtF4kuqR0=
 			</data>
 		</dict>
 		<key>Resources/lippy-content.json</key>
